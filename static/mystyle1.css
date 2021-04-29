@@ -1,0 +1,67 @@
+/* shadow animation */
+@keyframes shadow 
+{
+	0%{
+		box-shadow: 0px 0px 0 white, 0px 0px 0 white;
+	}
+	25% {
+		box-shadow: 0px 10px 0 white, -0px -10px 0 white;
+	}
+	50% {
+		box-shadow: 10px -10px 0 white, -10px 10px 0 white;
+	}
+	75% {
+		box-shadow: -10px -10px 0 white, 10px 10px 0 white;
+	}
+	100%{
+		box-shadow: 0px 0px 0 white, 0px 0px 0 white;
+	}
+}
+
+/* Style for Operate button */
+.button_format
+{
+	font-family: monospace;
+	cursor: pointer;
+	color:#fff;
+	background:transparent;
+	margin-top: 20px;
+	font-size: 80px;
+	width: 400px;
+	height: 100px;
+	font-weight: bold;
+	border-style: none;
+	border-radius: 100px;
+	border: white solid 3px;
+} 
+.button_format:hover
+{
+	animation: shadow 2s ease forwards;
+} 
+.button_format:focus
+{
+	outline: 0;
+} 
+
+/* Style for upload button */
+.upload_format
+{
+	width: 200px;
+	cursor: pointer;
+	font-family: monospace;
+	font-size: 30px;
+	font-weight: bold;
+	padding:20px;
+	color: #fff;
+	background:transparent;
+	border-radius: 300px;
+	box-shadow: 0 0 0px white;
+	margin-top: 230px;
+	margin-bottom: 10px;
+	transition: 1s;
+	border: white solid 3px;
+}
+.upload_format:hover
+{
+	animation: shadow 2s ease forwards;
+} 
