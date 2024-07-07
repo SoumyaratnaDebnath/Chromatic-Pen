@@ -1,18 +1,23 @@
-Description --
+![](Banner.png)
+
+**Description**  
 ----------------------------------------------------
 
-Used Python to create a Desktop Application that can fill colors to a gray-scaled image, including pencil sketches.
+I developed a desktop application using Python, named "Chromatic Pen," that can effortlessly fill colors into grayscale images, including pencil sketches. This innovative application leverages advanced algorithms to bring life to monochrome images, transforming them into vibrant, colorful artworks. With a user-friendly interface, "Chromatic Pen" allows users to enhance their grayscale images with just a few clicks, making it a powerful tool for artists, designers, and anyone interested in digital coloring.
 
-
-
-Instructions --
+**Instructions**  
 ----------------------------------------------------
 
-1.  Download and extract the repository.
+1. **Download and Extract the Repository**  
+   Begin by downloading the repository containing all the necessary files for "Chromatic Pen."
 
-2.  Inside ìChromatic-Pen/static/modelî folder, extract ìmodel.zip.001î using 7-zip.
+2. **Extract Model Files**  
+   Navigate to the ‚ÄúChromatic-Pen/static/model‚Äù folder. Locate the ‚Äúmodel.zip.001‚Äù file and use 7-zip to extract its contents. This step ensures that all the model files are correctly set up for the application.
 
-3.  Inside ìChromatic-Penî folder, extract ìmain.zip.001î using 7-zip.
+3. **Extract Main Application Files**  
+   Go to the ‚ÄúChromatic-Pen‚Äù folder. Find the ‚Äúmain.zip.001‚Äù file and extract it using 7-zip. This will unpack the main application files needed to run "Chromatic Pen."
 
-4.  Execute ìmain.exeî.
+4. **Execute the Application**  
+   Finally, run the ‚Äúmain.exe‚Äù file. This will launch the "Chromatic Pen" application, ready for use in colorizing your grayscale images and pencil sketches.
 
+By following these detailed instructions, you will be able to set up and use "Chromatic Pen" efficiently, unlocking the full potential of this innovative desktop application.
